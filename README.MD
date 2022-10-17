@@ -18,7 +18,7 @@ This program uses different apps and repositories to maximize the user experienc
 - **Browser:** [firefox](https://www.mozilla.org/en-US/firefox)
 - **Application Launcher:** [rofi](https://github.com/davatorium/rofi)
 
-# Instalation
+# Installation
 
 ### 1. Clone this repository
 
