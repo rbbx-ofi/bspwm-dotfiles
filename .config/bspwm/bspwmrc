@@ -27,7 +27,7 @@ bspc rule -a Code desktop='^4'
 feh --bg-fill ~/Images/Wallpapers/wallpaper-purple.png
 
 #Launch Polybar
-bash /home/rubbx/.config/polybar/launch.sh --forest
+bash /home/$USER/.config/polybar/launch.sh --forest
 
 #Follow the mouse
 bspc config focus_follows_pointer true
