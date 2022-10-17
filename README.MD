@@ -11,7 +11,7 @@ This program uses different apps and repositories to maximize the user experienc
 ## Interesting data 
 
 - **WM:** [bspwm](https://github.com/baskerville/bspwm)
-- **OS:** [Arch Linux](https://archlinux.org)
+- **OS:** [Kali Linux](https://www.kali.org/)
 - **Terminal:** [kitty](https://github.com/kovidgoyal/kitty)
 - **Shell:** [zsh](https://wiki.archlinux.org/index.php/Zsh)
 - **Editor:** [neovim](https://github.com/neovim/neovim)
@@ -25,7 +25,7 @@ This program uses different apps and repositories to maximize the user experienc
 ````bash
 git clone https://github.com/ThunderstrikeES/bspwm-dotfiles
 
-### 2. Install the enviroment `./auto-bspwm.sh`
+### 2. Install the enviroment ./auto-bspwm.sh
 
 cd bspwm-dotfiles
 chmod +x auto-bspwm.sh
