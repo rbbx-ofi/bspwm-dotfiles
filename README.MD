@@ -4,10 +4,6 @@
 </p>
 
 
-## Used programs
-
-This program uses different apps and repositories to maximize the user experience.
-
 ## Interesting data 
 
 - **WM:** [bspwm](https://github.com/baskerville/bspwm)
