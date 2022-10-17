@@ -132,19 +132,3 @@ super + shift + f
 # BurpSuite
 super + shift + b
   wmname LG3D & /usr/bin/burpsuite
-
-
-# Ghidra
-
-super + shift + g
-  ghidra
-
-
-# WireShark
-super + shift + w
-  /usr/bin/wireshark
-
-
-# Firefox
-super + shift + v
-	/usr/bin/virtualbox
