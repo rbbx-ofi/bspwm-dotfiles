@@ -1,19 +1,22 @@
-# Preview
+# Graphic preview
 <p align="center">
   <img src="screenshots/1.png">
 </p>
 
-This repo contains a simple scripts to install and configure a very cool desktop enviroment without need to know how to create or configure shell scripts.
 
 ## Used programs
 
 This program uses different apps and repositories to maximize the user experience.
 
-## Fonts
+## Interesting data 
 
-- Isovaka Nerd Font
-- Hack Nerd Font
-- Feather font.
+- **WM:** [bspwm](https://github.com/baskerville/bspwm)
+- **OS:** [Arch Linux](https://archlinux.org)
+- **Terminal:** [kitty](https://github.com/kovidgoyal/kitty)
+- **Shell:** [zsh](https://wiki.archlinux.org/index.php/Zsh)
+- **Editor:** [neovim](https://github.com/neovim/neovim)
+- **Browser:** [firefox](https://www.mozilla.org/en-US/firefox)
+- **Application Launcher:** [rofi](https://github.com/davatorium/rofi)
 
 # Instalation
 
@@ -22,13 +25,9 @@ This program uses different apps and repositories to maximize the user experienc
 ````bash
 git clone https://github.com/ThunderstrikeES/bspwm-dotfiles
 
-
 ### 2. Install the enviroment `./auto-bspwm.sh`
 
 cd bspwm-dotfiles
 chmod +x auto-bspwm.sh
 ./auto-bspwm.sh
 ./setup.sh
-
-```
-```text
