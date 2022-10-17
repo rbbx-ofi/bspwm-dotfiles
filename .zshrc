@@ -55,6 +55,6 @@ function extractports(){
 }
 
 # Created by `pipx` on 2022-10-09 15:45:54
-export PATH="$PATH:/home/$HOME/.local/bin"
+export PATH="$PATH:/home/$USER/.local/bin"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
