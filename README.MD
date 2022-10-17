@@ -16,15 +16,18 @@ This program uses different apps and repositories to maximize the user experienc
 
 # Instalation
 
-
 ### 1. Clone this repository
 
+````bash
+git clone https://github.com/ThunderstrikeES/bspwm-dotfiles
+```
 
-
-### 2. Change to clone repository and execute the `./setup.sh`
+### 2. Install the enviroment `./auto-bspwm.sh`
 
 ```bash
-cd dotfiles
+cd bspwm-dotfiles
+chmod +x auto-bspwm.sh
+./auto-bspwm.sh
 ./setup.sh
 ```
 
