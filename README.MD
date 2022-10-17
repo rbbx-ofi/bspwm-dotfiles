@@ -21,14 +21,14 @@ This program uses different apps and repositories to maximize the user experienc
 
 ````bash
 git clone https://github.com/ThunderstrikeES/bspwm-dotfiles
-```
+
 
 ### 2. Install the enviroment `./auto-bspwm.sh`
 
-```bash
 cd bspwm-dotfiles
 chmod +x auto-bspwm.sh
 ./auto-bspwm.sh
 ./setup.sh
+
 ```
 ```text
