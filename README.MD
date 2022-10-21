@@ -16,14 +16,9 @@
 
 # Installation
 
-### 1. Clone this repository
-
 ````bash
 git clone https://github.com/ThunderstrikeES/bspwm-dotfiles
-
-### 2. Install the enviroment ./auto-bspwm.sh
 
 cd bspwm-dotfiles
 chmod +x auto-bspwm.sh
 ./auto-bspwm.sh
-./setup.sh
